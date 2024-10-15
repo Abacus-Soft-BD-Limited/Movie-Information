@@ -1,0 +1,3 @@
+// OMDB API Key
+// Enter API Key that you received in your email...
+key = '6d26df89';
